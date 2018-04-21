@@ -38,15 +38,17 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "google-analytics": "",
-    "siteUrl": "undefined"
+    "google-analytics": "UA-117963581-1",
+    "siteUrl": "https://gerald974.github.io/mascareignesmobilapp/",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
